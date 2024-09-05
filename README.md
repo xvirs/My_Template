@@ -4,7 +4,9 @@
   <strong>My Template</strong> es un proyecto de referencia para crear futuros proyectos de Android con una arquitectura limpia y bien definida. Este proyecto utiliza varias tecnologías modernas para asegurar un desarrollo eficiente y mantenible.
 </p>
 
-<h1 align="center">## 🏗️ Arquitectura
+<p align="center">
+## 🏗️ Arquitectura
+</p>
 
 <p align="center">
   <img src="ruta/a/tu/imagen.png" alt="Arquitectura" width="600"/>
@@ -12,7 +14,9 @@
 
 El proyecto sigue una arquitectura limpia, separando las responsabilidades en diferentes capas: Data, Domain y Presentation. Esto facilita la escalabilidad y el mantenimiento del código.
 
-<h1 align="center">## 🚀 Tecnologías Utilizadas
+<p align="center">
+## 🚀 Tecnologías Utilizadas
+</p>
 
 ### 🖌️ Jetpack Compose
 Jetpack Compose se utiliza para construir interfaces de usuario de manera declarativa y eficiente.
@@ -41,7 +45,9 @@ Coil se utiliza para cargar y mostrar imágenes de manera eficiente en la aplica
 ### 🔥 Firebase
 Firebase se utiliza para la analítica, autenticación y manejo de errores/crashlytics en la aplicación.
 
-<h1 align="center">## 📥 Instalación
+<p align="center">
+## 📥 Instalación
+</p>
 
 1. Clona el repositorio:
     ```bash
