@@ -7,7 +7,8 @@
 ## 🏗️ Arquitectura
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1IEkvO-Dxu6p5zIw8GrKRNw1WiSn5dOt5" alt="Arquitectura" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=1rZ1Nvp6i0al_1ccFlLaaXe9OR6sHSZhI" alt="Arquitectura - Mitad Superior" width="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1k9xAIznjMHTv8d4NqSulRk5fDoH5JdPa" alt="Arquitectura - Mitad Inferior" width="300"/>
 </p>
 
 El proyecto sigue una arquitectura limpia, separando las responsabilidades en diferentes capas: Data, Domain y Presentation. Esto facilita la escalabilidad y el mantenimiento del código.
