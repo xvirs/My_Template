@@ -61,7 +61,7 @@ Este proyecto está diseñado para ser utilizado como plantilla para nuevos proy
 ## 📦 Descargar APK
 
 Puedes descargar el APK del proyecto desde el siguiente enlace:
-Descargar APK ("https://drive.google.com/file/d/1ajJjw37nGQQ85eSlOe5VAfBTS_76V1UT/view?usp=sharing")
+Descargar APK [https://drive.google.com/file/d/1ajJjw37nGQQ85eSlOe5VAfBTS_76V1UT/view?usp=sharing]
 
 
 ## 🤝 Contribuciones
