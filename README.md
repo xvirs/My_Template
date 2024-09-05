@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="ruta/a/tu/imagen.png" alt="Arquitectura" width="600"/>
+  <img src="https://drive.google.com/file/d/1IEkvO-Dxu6p5zIw8GrKRNw1WiSn5dOt5/view?usp=sharing" alt="Arquitectura" width="600"/>
 </p>
 
 El proyecto sigue una arquitectura limpia, separando las responsabilidades en diferentes capas: Data, Domain y Presentation. Esto facilita la escalabilidad y el mantenimiento del código.
