@@ -4,19 +4,15 @@
   <strong>My Template</strong> es un proyecto de referencia para crear futuros proyectos de Android con una arquitectura limpia y bien definida. Este proyecto utiliza varias tecnologías modernas para asegurar un desarrollo eficiente y mantenible.
 </p>
 
-<p align="center">
 ## 🏗️ Arquitectura
-</p>
 
 <p align="center">
-  <img src="[ruta/a/tu/imagen.png](https://drive.google.com/file/d/1IEkvO-Dxu6p5zIw8GrKRNw1WiSn5dOt5/view?usp=sharing)" alt="Arquitectura" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=1IEkvO-Dxu6p5zIw8GrKRNw1WiSn5dOt5" alt="Arquitectura" width="600"/>
 </p>
 
 El proyecto sigue una arquitectura limpia, separando las responsabilidades en diferentes capas: Data, Domain y Presentation. Esto facilita la escalabilidad y el mantenimiento del código.
 
-<p align="center">
 ## 🚀 Tecnologías Utilizadas
-</p>
 
 ### 🖌️ Jetpack Compose
 Jetpack Compose se utiliza para construir interfaces de usuario de manera declarativa y eficiente.
@@ -45,13 +41,11 @@ Coil se utiliza para cargar y mostrar imágenes de manera eficiente en la aplica
 ### 🔥 Firebase
 Firebase se utiliza para la analítica, autenticación y manejo de errores/crashlytics en la aplicación.
 
-<p align="center">
 ## 📥 Instalación
-</p>
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/xvirs/My_Template.git
+    git clone https://github.com/tu-usuario/MyTemplate.git
     cd MyTemplate
     ```
 
@@ -62,6 +56,11 @@ Firebase se utiliza para la analítica, autenticación y manejo de errores/crash
 ## 📚 Uso
 
 Este proyecto está diseñado para ser utilizado como plantilla para nuevos proyectos. Puedes copiar y modificar las partes necesarias para adaptarlas a tus necesidades.
+
+## 📦 Descargar APK
+
+Puedes descargar el APK del proyecto desde el siguiente enlace:
+Descargar APK
 
 ## 🤝 Contribuciones
 
